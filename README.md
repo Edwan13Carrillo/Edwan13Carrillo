@@ -3,9 +3,10 @@
 
 <!-- Soy estudiante de ingeniería de sistemas en -->
 
-- 🔭 Actualmente estoy interesado:
+- 🔭 Actualmente estoy interesado en:
 - Desarrollo de aplicaciones móviles
 - Desarrollo de aplicaciones web
+- Desarrollo de optimizaciones.
 <!-- 
 :bulb: Me interesan todos los temas relacionados con los datos: **Big Data, nube, aprendizaje automático y ciencia de datos**
 - 💬 Háblame sobre el espacio, la filosofía, la ciencia, cualquier cosa que te interese.
